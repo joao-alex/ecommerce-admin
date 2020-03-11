@@ -1,0 +1,8 @@
+.link{
+    text-decoration: none;
+}
+
+button#exit:hover{
+    background-color:rgb(206, 52, 52) ;
+    color: #fff;
+}   
